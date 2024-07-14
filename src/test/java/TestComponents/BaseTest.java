@@ -8,7 +8,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
-import rahulshettyacademy.pageobjects.LandingPage;
+import SurbhiLearning.pageobjects.LandingPage;
 
 import java.io.File;
 import java.io.FileInputStream;
@@ -25,7 +25,7 @@ public class BaseTest {
     public WebDriver initilaizeDriver() throws IOException
     {
         Properties prop = new Properties();
-        FileInputStream fis = new FileInputStream(System.getProperty("user.dir")+"//src//main//java//rahulshettyacademy//resources//GlobalData.properties");
+        FileInputStream fis = new FileInputStream(System.getProperty("user.dir")+"//src//main//java//SurbhiLearning//resources//GlobalData.properties");
         prop.load(fis);
         String browserName = prop.getProperty("browser");
 
