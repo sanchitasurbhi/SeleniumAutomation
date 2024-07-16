@@ -7,7 +7,7 @@ Hi There :raising_hand_woman:
 
 Meet Surbhi Sanchita, a Software Engineer by profession. In a world where career paths are often carefully chosen, I took a delightful detour. Picture this: a curious mind who once tried to order a pizza online but ended up debugging the website or code instead. It was love at first byte! :upside_down_face:
 
-Despite not being a code fanatic by nature, I bring a fresh perspective to the world of software engineering. I always prefer to  approach each project with a blend of curiosity, practicality, and a touch of humor—because if you can’t laugh at a stubborn bug, what can you laugh at? :slightly_smiling_face:
+Despite not being a code fanatic by nature, I bring a fresh perspective to the world of software engineering. My endeavour always remains to approach each task with a blend of curiosity, practicality, and a touch of enthusiasm — because if a stubborn bug does not enthuse you, what else will !? :slightly_smiling_face:
 
 
 ✨**The technologies I have used in this project**✨
