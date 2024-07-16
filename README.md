@@ -10,7 +10,7 @@ Meet Surbhi Sanchita, a Software Engineer by profession. In a world where career
 Despite not being a code fanatic by nature, I bring a fresh perspective to the world of software engineering. My endeavour always remains to approach each task with a blend of curiosity, practicality, and a touch of enthusiasm — because if a stubborn bug does not enthuse you, what else will !? :slightly_smiling_face:
 
 
-✨**The technologies I have used in this project**✨
+✨****The technologies I have used in this project****✨
 
 1. Selenium Webdriver
 2. Java
@@ -24,7 +24,7 @@ I wanted to deepen my understanding of frameworks, so I embarked on creating one
 
 
 
-✨**Frameowrk Explanation**✨
+✨****Frameowrk Explanation****✨
 
 1. I have used Page Object concept here to dsign this framework from scratch, it is java design pattern used to develop and test web pages. I have created page object Model class to develop and store resuable methods. 
 
@@ -39,6 +39,21 @@ I wanted to deepen my understanding of frameworks, so I embarked on creating one
    ![image](https://github.com/user-attachments/assets/9ba5de9d-6fc5-4bdd-aaa6-bc9d6caf4ef6)
 
    ![image](https://github.com/user-attachments/assets/17a63063-0dc4-484a-a114-0548548c8aba)
+
+
+
+   
+
+
+
+   ✨****Apart from technology, What do I do****✨
+   
+   1. I love adventure and enjoy trekking and any other activity that gives bit of Adrenaline boost
+   2. I have performed dance on stage (I have stage fear),love dancing
+      
+      
+
+   
 
 
 
