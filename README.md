@@ -49,7 +49,7 @@ I wanted to deepen my understanding of frameworks, so I embarked on creating one
    ✨****Apart from technology, What do I do****✨
    
    1. I love adventure and enjoy trekking and any other activity that gives bit of Adrenaline boost
-   2. I have performed dance on stage (I have stage fear),love dancing
+   2. Love dancing
       
       
 
